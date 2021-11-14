@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnkNf9Dz2IPhuEUJsF2wntcXGYnXM0DjG7++8nzkrUnIe6NbNUns2O0zidy5MPGcyk1S3Mua/XPjOJYPIAkx9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yordanka Jekova\\source\\repos\\ConsoleApp150\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yordanka Jekova\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yordanka Jekova\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
